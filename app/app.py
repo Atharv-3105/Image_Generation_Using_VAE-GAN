@@ -96,7 +96,7 @@ if st.button("🔮 Generate Image"):
 st.markdown("---")
 st.markdown(
     """
-    <div style="text-align: center; font-size: 50px; color: white;">
+    <div style="text-align: center; font-size: 30px; color: white;">
         <p>Made with ❤️ by <strong>Atharva</strong></p>
         <p>💬<em>Who knew randomness could be this creative? If that excites you, let’s connect.</em></p>
         <p>
